@@ -1,5 +1,2 @@
-Project Demo : https://funny-daffodil-350bc9.netlify.app/  
-
-Project Video  : https://www.youtube.com/watch?v=iqfxu4s6i4Y&ab_channel=GorkCoder 
-
-![screencapture-funny-daffodil-350bc9-netlify-app-2023-06-18-13_10_37](https://github.com/sunil9813/Real-estate-website/assets/67497228/011837d1-0937-40cd-8ea2-aa83aefaf649)
+# Real Estate Website
+### This is a fully responsive real estate selling/renting website with the help of which you can easily find the right property (be it houses, apartments, villas or offices) in the right place that fits your budget. I have built this website using HTML, CSS, JavaScript, ReactJS and NodeJS. You can search prperties using search filter and can get the full details of them. Users can signup, find the desired property based on location and other filters and contact the agents associated to those properties.

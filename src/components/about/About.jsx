@@ -13,8 +13,8 @@ const About = () => {
           <div className='left row'>
             <Heading title='Our Agency Story' subtitle='Check out our company story and work process' />
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+            <p>We are a real estate selling/renting website with the help of which you can easily find the right property (be it houses, apartments, villas or offices) in the right place that fits your budget.</p>
+            <p>You can search properties using search filter and can get the full details of them. Users can signup, find the desired property based on location and other filters and contact the agents associated to those properties.</p>
             <button className='btn2'>More About Us</button>
           </div>
           <div className='right row'>

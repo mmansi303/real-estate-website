@@ -8,7 +8,7 @@ const Location = () => {
     <>
       <section className='location padding'>
         <div className='container'>
-          <Heading title='Explore By Location' subtitle='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.' />
+          <Heading title='Explore By Location' subtitle=' find the desired property based on location and other filters and contact the agents associated to those properties ' />
 
           <div className='content grid3 mtop'>
             {location.map((item, index) => (
